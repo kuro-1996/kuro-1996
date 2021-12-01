@@ -7,7 +7,7 @@
 - 🌱 I found fascinated with programming and always working on improving myself 🤣
 - 👯 I'm seeking opportunities to enhance my skills & experience in a professional and stable environment
 - 🥅 Goals: Become a professional front-end developer
-- ⚡ Fun fact: I love to play game and play guitar / drums
+- ⚡ Fun fact: I love to play game and play guitar
 
 ### Connect with me:
 
