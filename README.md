@@ -38,6 +38,8 @@
 
 ---
 
+<a href="https://app.daily.dev/Kuro1996"><img src="https://api.daily.dev/devcards/0ceda0587415412a8838269061e64dc1.png?r=c5g" width="400" alt="Tuan Nguyen's Dev Card"/></a>
+
 
 [website]: https://kurodev.info
 [linkedin]: https://www.linkedin.com/in/anh-tu%E1%BA%A5n-nguy%E1%BB%85n-ng%E1%BB%8Dc-8b0746195/
