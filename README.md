@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/Kuro1996"><img src="https://api.daily.dev/devcards/0ceda0587415412a8838269061e64dc1.png?r=c5g" width="400" alt="Tuan Nguyen's Dev Card"/></a>
+
 ### Hi there, I'm Tuan - aka Kuro
 
 [![Website](https://img.shields.io/website?label=kurodev.info&style=for-the-badge&url=https%3A%2F%2Fkurodev.info)](https://kurodev.info)
@@ -37,8 +39,6 @@
 <br />
 
 ---
-
-<a href="https://app.daily.dev/Kuro1996"><img src="https://api.daily.dev/devcards/0ceda0587415412a8838269061e64dc1.png?r=c5g" width="400" alt="Tuan Nguyen's Dev Card"/></a>
 
 
 [website]: https://kurodev.info
